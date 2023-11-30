@@ -1,0 +1,35 @@
+/* Contact.css */
+
+/* Styling for the card */
+.card {
+    width: 800px;
+    border: 1px solid #190404;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 20px auto; /* Set margin: 20px auto; to center horizontally */
+    text-align: center;
+  }
+  
+  /* Style for the image inside the card */
+  .card img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  /* Style for the container holding text */
+  .card .container {
+    padding: 20px;
+  }
+  
+  /* Styling for the heading inside the card */
+  .card h4 {
+    margin-bottom: 10px;
+  }
+  
+  /* Styling for the paragraph inside the card */
+  .card p {
+    margin: 0;
+  }
+  
